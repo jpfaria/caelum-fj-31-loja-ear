@@ -5,11 +5,11 @@
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="fj31-loja-base.jar" deploy-path="/lib" handle="module:/resource/fj31-loja-base/fj31-loja-base">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <dependent-module archiveName="fj31-loja-rest.war" deploy-path="/" handle="module:/resource/fj31-loja-rest/fj31-loja-rest">
             <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="fj31-loja-base.jar" deploy-path="/lib" handle="module:/resource/fj31-loja-base/fj31-loja-base">
             <dependency-type>uses</dependency-type>
         </dependent-module>
     </wb-module>

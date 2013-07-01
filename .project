@@ -4,8 +4,8 @@
 	<comment></comment>
 	<projects>
 		<project>fj31-loja-ejb3</project>
-		<project>fj31-loja-base</project>
 		<project>fj31-loja-rest</project>
+		<project>fj31-loja-base</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
